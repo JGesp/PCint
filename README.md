@@ -4,10 +4,10 @@
 
 Tienda Electronica de Venta y Servicios tecnicos a Domicilio de Componentes de Computadoras.
 
-> <br> **Gerente:** _Jose Velasquez_
-> <br> **Contador:** _Santiago Villarreal_
-> <br> **Servicio Tecnico:** _Samuel Hernandez_
-> <br> **Vendedor:** _Jesus Espitia_
+> <br> **Gerente:** _Jose Velasquez_ 000565025 joset.velasquez@upb.edu.co
+> <br> **Contador:** _Santiago Villarreal_ 000577548 santiago.villarreal@upb.edu.co
+> <br> **Servicio Tecnico:** _Samuel Hernandez_ 000571565 samuel.hernandez@upb.edu.co
+> <br> **Vendedor:** _Jesus Espitia_ 000574185 jesus.espitia@upb.edu.co
 
 Nuestros Servicios Incluyen:
 - Venta de Componentes.
