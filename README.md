@@ -2,7 +2,7 @@
 
 # Tienda de Componentes Electrónicos "PCint"
 
-Tienda Electronica de Venta y Servicios tecnicos a Domicilio de Componentes Electronico.
+Tienda Electronica de Venta y Servicios tecnicos a Domicilio de Componentes de Computadoras.
 
 > <br> **Gerente:** _Jose Velasquez_
 > <br> **Contador:** _Santiago Villarreal_
@@ -11,7 +11,7 @@ Tienda Electronica de Venta y Servicios tecnicos a Domicilio de Componentes Elec
 
 Nuestros Servicios Incluyen:
 - Venta de Componentes.
-- Servicio Tecnico a Domcilio de Arreglo de Dispositivos Inteligentes.
+- Servicio Tecnico a Domcilio de Arreglo de Computadoras.
 - Te ayudamos a Escoger Tus mejores componentes.
 
 ¿Cómo Contactarnos?
