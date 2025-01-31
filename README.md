@@ -1,6 +1,6 @@
-# Tienda de Componentes Electrónicos "PCint"
+![LOGO TRANSPARENTE](https://github.com/user-attachments/assets/d96e2748-cbeb-4154-a1fa-49b7f5a98eb4)
 
-![LOGO TRANSPARENTE](https://github.com/user-attachments/assets/8fed92d3-0e52-4d02-be83-7685e7bf0add.png)
+# Tienda de Componentes Electrónicos "PCint"
 
 Tienda Electronica de Venta y Servicios tecnicos a Domicilio de Componentes Electronico.
 
